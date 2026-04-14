@@ -1,0 +1,11 @@
+Gene,Sample_id,Expression,Condition
+TP53,S1,8.2,normal
+TP53,S2,6.1,cancer
+MYC,S1,7.5,normal
+MYC,S2,10.2,cancer
+EGFR,S1,6.8,normal
+EGFR,S2,9.5,cancer
+PTEN,S1,8.5,normal
+PTEN,S2,6.3,cancer
+KRAS,S1,7.2,normal
+KRAS,S2,10.1,cancer
