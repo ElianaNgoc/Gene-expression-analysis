@@ -4,7 +4,7 @@
 This project explores gene expression differences between normal and cancer conditions using a simplified dataset, inspired by publicly available gene expression studies.
 
 ## Dataset
-- Inspired by gene expression datasets from GEO (I randomly chose some dataset, such as GSE75970 for reference)
+- Inspired by publicly available gene expression datasets from GEO (e.g., GSE75970)
 - Focus on well-known cancer-related genes:
   - Oncogenes: MYC, EGFR, KRAS
   - Tumor suppressors: TP53, PTEN
@@ -26,3 +26,7 @@ Cancer progression is often characterized by the activation of oncogenes and the
 - Basic data analysis (Python, pandas)
 - Data visualization
 - Biological interpretation of gene expression data
+
+## Limitations
+- This project uses a simplified dataset for demonstration purposes
+- Real gene expression analysis typically involves high-dimensional data and preprocessing steps such as normalization
